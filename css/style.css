@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+}
+
+header {
+  
+  background-color: hwb(240 42% 55%);
+  padding: 15px;
+}
+header ul {
+  float: right;
+  color: white;
+  font-family: lato;
+  font-size: 25px;
+}
+header li {
+  display: inline-block;
+  padding: 0px 5px;
+}
+header p {
+  display: inline-block;
+}
+
+
+
+#parent-div{
+  width: 100%;
+  background-color: rgb(234, 234, 234);
+  font-family: lato;
+  font-size: large; font-style: italic;
+}
+
+p {
+  font-family: lato;
+  font-size: 30px;
+  
+}
+
+#leftbar-div{
+  width: 400px;
+  min-height: 400px;
+  background-color:rgb(234, 234, 234);
+  padding: 20px;
+  float: left;
+  }
+
+#words-div {
+  display: inline-block;
+}
+
+#casestudies-div {
+  padding: 25px;
+  
+}
+#profilepix-div{
+  display: inline-block;
+  width: 50%;
+  
+  background-color:rgb(234, 234, 234);
+}
+
+#profilepix-div img {
+  width: 500px;
+}
+
+footer {
+  font-family: lato;
+  background-color: #373738;
+  padding: 20px;
+  margin-top: 0;
+  color: white;
+}
+footer ul {
+  list-style: none;
+  padding-left: 5px;
+}
+footer li {
+  display: inline-block;
+  padding: 0px 7px;
+}
